@@ -138,7 +138,7 @@ const resources = {
             role:
               'Co-founder — Senior Advisor, Data Strategy & Governance (ACCA)',
             bioShort:
-              '20+ years in strategic consulting, operational excellence and digital transformation (Canada & Africa).',
+              '20+ years in strategic consulting, operational excellence and digital transformation (Europe, Amerique and Africa).',
             bioLong:
               'Fabrice Yanou is a Senior Advisor in Data Strategy & Governance (Desjardins). ACCA-certified with 20+ years in business strategy, financial/operational excellence and digital transformation. He has supported ministries, financial institutions and large enterprises to improve governance and performance.',
             linkedin: 'https://www.linkedin.com/in/fabrice-yanou/',
@@ -153,7 +153,7 @@ const resources = {
             bioShort:
               'Expert in data governance and project management with international experience.',
             bioLong:
-              'Théophile Ndjanmou is a Senior Data Governance Advisor at Desjardins Financial Security Investments Inc. PhD in Economics (UQAM), statistician, and former World Bank program officer. Recognized expertise in governance frameworks and the valorization of information assets.',
+              'Théophile Ndjanmou is a Senior Data Governance Advisor at Desjardins. With over 20 years of experience, he holds a PhD in Economics (UQAM), is a trained statistician, and a former Program Officer at the World Bank. He is recognized for his expertise in governance frameworks and the valorization of information assets.',
             linkedin:
               'https://www.linkedin.com/in/th%C3%A9ophile-ndjanmou-0a8120126/',
             image:
@@ -427,7 +427,7 @@ const resources = {
             role:
               'Cofondateur — Conseiller principal en stratégie & gouvernance des données (ACCA)',
             bioShort:
-              '20+ ans en conseil stratégique, excellence opérationnelle et transformation numérique (Canada & Afrique).',
+              '20+ ans en conseil stratégique, excellence opérationnelle et transformation numérique (Europe, Afrique et Canada).',
             bioLong:
               'Fabrice Yanou est Conseiller principal en stratégie et gouvernance des données (Desjardins). Certifié ACCA, il cumule 20+ ans en stratégie d’entreprise, excellence financière/opérationnelle et transformation numérique. Il a accompagné ministères, institutions financières et grandes entreprises dans l’amélioration de leur gouvernance et performance.',
             linkedin: 'https://www.linkedin.com/in/fabrice-yanou/',
@@ -459,7 +459,7 @@ const resources = {
             bioShort:
               'Spécialiste gouvernance des données et gestion de projets, expérience internationale.',
             bioLong:
-              'Théophile Ndjanmou est Conseiller principal en gouvernance des données chez Desjardins Financial Security Investments Inc. Docteur en économie (UQAM), statisticien, ex-responsable de programme à la Banque mondiale. Expertise reconnue en cadres de gouvernance et valorisation des actifs informationnels.',
+              'Théophile Ndjanmou est conseiller principal en gouvernance des données chez Desjardins. Fort de plus de 20 ans d’expérience, il est titulaire d’un doctorat en économie (UQAM), statisticien de formation et ancien chargé de programme à la Banque mondiale. Il est reconnu pour son expertise en cadres de gouvernance et en valorisation des actifs informationnels.',
             linkedin:
               'https://www.linkedin.com/in/th%C3%A9ophile-ndjanmou-0a8120126/',
             image:
