@@ -151,7 +151,7 @@ const resources = {
             role:
               'Co-founder — Senior Data Governance Advisor, Economist & Statistician',
             bioShort:
-              'Expert in data governance and project management with international experience.',
+              'Data governance and project management specialist with over 20 years of international experience, driving strategies for information asset valorization and organizational efficiency.',
             bioLong:
               'Théophile Ndjanmou is a Senior Data Governance Advisor at Desjardins. With over 20 years of experience, he holds a PhD in Economics (UQAM), is a trained statistician, and a former Program Officer at the World Bank. He is recognized for his expertise in governance frameworks and the valorization of information assets.',
             linkedin:
@@ -457,7 +457,7 @@ const resources = {
             role:
               'Cofondateur — Conseiller principal en gouvernance des données, économiste & statisticien',
             bioShort:
-              'Spécialiste gouvernance des données et gestion de projets, expérience internationale.',
+              'Spécialiste en gouvernance des données et gestion de projets, avec plus de 20 ans d’expérience internationale, pilotant des stratégies de valorisation des actifs informationnels et d’efficacité organisationnelle.',
             bioLong:
               'Théophile Ndjanmou est conseiller principal en gouvernance des données chez Desjardins. Fort de plus de 20 ans d’expérience, il est titulaire d’un doctorat en économie (UQAM), statisticien de formation et ancien chargé de programme à la Banque mondiale. Il est reconnu pour son expertise en cadres de gouvernance et en valorisation des actifs informationnels.',
             linkedin:
